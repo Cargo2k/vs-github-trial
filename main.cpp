@@ -4,7 +4,7 @@
 
 int main(int argc, char* argv[])
 {
-	// an importent comment
+	// an importent comment not really
 	std::cout << "Hello git hub from my vs ide" << std::endl;
 	std::cout << "a new print" << std::endl;
 	std::cout << "a 3rd edit" << std::endl;
